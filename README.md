@@ -1,12 +1,23 @@
 # ShoppingApp-Hacktoberfest
 
-Welcome to **ShoppingApp-Hacktoberfest**! We *appreciate* your interest in **contributing** to our **Android** app project. Whether you are a **developer**, **designer**, **tester**, or have other skills to offer, your **contributions** can help us improve **ShoppingApp-Hacktoberfest**. Please take a moment to read and understand the following **guidelines** before you begin.
+Welcome to **ShoppingApp-Hacktoberfest**! We **appreciate** your interest in **contributing** to our **Android** app project. Whether you are a **developer**, **designer**, **tester**, or have other skills to offer, your **contributions** can help us improve **ShoppingApp-Hacktoberfest**. Please take a moment to read and understand the following **guidelines** before you begin.
+
+---
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Making Changes](#making-changes)
+- [Submitting Changes](#submitting-changes)
+- [Contributing Guidelines](#contributing-guidelines)
+- [Thank You](#thank-you)
+
+---
 
 ## Getting Started
 
-1. **Fork** the Repository: Click the "**Fork**" button at the top right of this repository to create a copy of the project in your own **GitHub** account.
+1. **Fork the Repository**: Click the "**Fork**" button at the top right of this repository to create a copy of the project in your own **GitHub** account.
 
-2. **Clone** Your Fork: **Clone** your forked repository to your local machine using **Android Studio** or the **command line**:
+2. **Clone Your Fork**: Clone your forked repository to your local machine using **Android Studio** or the **command line**:
 
    ```
    git clone https://github.com/ufuomaisaac/ShoppingApp-Hacktoberfest.git
@@ -39,4 +50,7 @@ Welcome to **ShoppingApp-Hacktoberfest**! We *appreciate* your interest in **con
 
 3. **Provide a Detailed Description**: In your PR description, provide a detailed explanation of your changes and reference any relevant issues.
 
+   ## Contributing Guidelines
+
    
+   ## Thank You
